@@ -17,7 +17,7 @@ website:
   page-navigation: true
   page-footer:
     left: |
-      Powered by [Quarto](https://quarto.org).
+      Powered by [Quarto](https://quarto.org). [![Netlify Status](https://api.netlify.com/api/v1/badges/501da34a-ea86-4ab7-95ad-2468010a9490/deploy-status)](https://app.netlify.com/sites/euitrel/deploys)
     center: |
       &copy; 2022 HakanMehmetcik 
     right: |
