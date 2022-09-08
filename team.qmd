@@ -1,5 +1,5 @@
 ---
-title: "Project Team"
+title: "Team"
 editor: visual
 ---
 
