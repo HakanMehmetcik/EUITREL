@@ -1,0 +1,13 @@
+---
+title: "Activities"
+editor: visual
+---
+
+## Recent Activities From EUITREL
+
+|  📅Date    |  📌 Location                       | 🔖 Topics                                | 🧑‍🤝‍🧑Attendees  | 🔗Link |
+|--------------|--------------|------------------|--------------|--------------|
+| 01.09.2022 | Marmara University, Göztepe Campus | Kick-off Meeting                         | Project Team | \-     |
+| 15.10.2022 | Marmara University, Göztepe Campus | Project Management Plan and Coordination | Project Team | \-     |
+
+: Activities

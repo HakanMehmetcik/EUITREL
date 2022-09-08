@@ -1,0 +1,42 @@
+---
+title: "Contact"
+editor: visual
+about:
+  template: broadside
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/euitrel
+    - icon: github
+      text: GitHub
+      href: https://github.com/HakanMehmetcik/EUITREL.git
+    - icon: mail
+      text: Mail
+      href: mailto:euitrel.jeanmonnet@gmail.com
+---
+
+## Adress
+
+🏫 Marmara Üniversitesi,
+
+Siyasal Bilgiler Fakültesi Binası,
+
+Uluslararası İlişkiler Bölümü, Ofis:552,
+
+Göztepe Kampüsü 34722
+
+Kadıköy - İstanbul
+
+TÜRKİYE
+
+☎️02167774200
+
+```{=html}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.7033742042095!2d29.05095521564126!3d40.98797567930273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac78c1f3c6f8f%3A0xa617d2a67bb4038e!2zTWFybWFyYSDDnG5pdmVyc2l0ZXNpIEfDtnp0ZXBlIEthbXDDvHPDvA!5e0!3m2!1str!2str!4v1662615683656!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```
+## Contact Form
+
+```{=html}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeU_Q7gDEdTKxrXLuv4VX1CKWtIbdOkEp9QFIFpMbwf6FlKyQ/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0">Yükleniyor…</iframe>
+```
+***Thank you for getting in touch!***

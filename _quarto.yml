@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  favicon: logo.png
+  title: "EUITREL: Erasmus+ Jean Monnet Project" 
+  navbar:
+    right:
+      - about.qmd
+      - team.qmd
+      - teaching.qmd
+      - activities.qmd
+      - deliverables.qmd
+      - contact.qmd
+      - icon: twitter
+        href: https://twitter.com/euitrel
+  page-navigation: true
+  page-footer:
+    left: |
+      Powered by [Quarto](https://quarto.org).
+    center: |
+      &copy; 2022 HakanMehmetcik 
+    right: |
+      [<img src="eulogo.png" alt="EU Funded Logo" style="height:3.5em;"/>](https://erasmus-plus.ec.europa.eu).
+      [<img src="marmaralogo.png" alt="EU Funded Logo" style="height:3.5em;"/>](https://marmara.edu.tr).
+      [<img src="siyasallogo.png" alt="EU Funded Logo" style="height:3.5em;"/>](https://siyasal.marmara.edu.tr).
+    border: true
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    lang: en
+    date-format: long
+
+editor: visual
+
+
+
+

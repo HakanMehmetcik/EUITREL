@@ -1,0 +1,88 @@
+---
+title: "Project Team"
+editor: visual
+---
+
+## Hakan Mehmetcik
+
+**Role:** Project Coordinator
+
+**Organizations:** Marmara University
+
+**Title:** Assoc. Prof.
+
+**Expertise:** Regionalism, Regions, International Relations, Computational Social Science
+
+[{{< fa brands twitter >}}](https://twitter.com/HakanMehmetcik) [{{< fa brands github >}}](https://github.com/HakanMehmetcik) [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=EP6861cAAAAJ&hl=tr&oi=ao)
+
+## Erhan Dogan
+
+**Role:** Researcher, and lecturer
+
+**Organizations:** Marmara University
+
+**Title:** Prof.
+
+**Expertise:** European Union, EU Integration
+
+[{{< fa brands twitter >}}]() [{{< fa brands github >}}]() [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=QevK0rMAAAAJ&hl=tr&oi=ao)
+
+## Ali Arı
+
+**Role:** Researcher, and lecturer
+
+**Organizations:** Marmara University
+
+**Title:** Prof.
+
+**Expertise:** Economics, International Trade and Development, EU's Trade Policy
+
+[{{< fa brands twitter >}}](https://mobile.twitter.com/AAri_Marmara) [{{< fa brands github >}}]() [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=HyXiKDsAAAAJ&hl=tr&oi=ao)
+
+## Emel Parlar Dal
+
+**Role:** Researcher, and lecturer
+
+**Organizations:** Marmara University
+
+**Title:** Prof.
+
+**Expertise:** Global Governance, Multilateralism, Rising Powers, EU and Multilateralism
+
+[{{< fa brands twitter >}}](https://mobile.twitter.com/emelparlar2) [{{< fa brands github >}}]() [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=_2W8nt8AAAAJ&hl=tr&oi=ao)
+
+## İmran Demir
+
+**Role:** Researcher, and lecturer
+
+**Organizations:** Marmara University
+
+**Title:** Assoc. Prof.
+
+**Expertise:** International Relations, Methodology
+
+[{{< fa brands twitter >}}]() [{{< fa brands github >}}]() [{{< ai google-scholar >}}]()
+
+## Emre Erşen
+
+**Role:** Researcher, and lecturer
+
+**Organizations:** Marmara University
+
+**Title:** Assoc. Prof.
+
+**Expertise:** International Relations, Russian Foreign Policy, Russia
+
+[{{< fa brands twitter >}}](https://mobile.twitter.com/emreersen) [{{< fa brands github >}}]() [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=UOquYBwAAAAJ&hl=tr&oi=ao)
+
+## Çagdaş Üngör Sunar
+
+**Role:** Researcher, and lecturer
+
+**Organizations:** Marmara University
+
+**Title:** Prof.
+
+**Expertise:** International Relations, Chinese Foreign Policy, China
+
+[{{< fa brands twitter >}}](https://mobile.twitter.com/CagdasUngor) [{{< fa brands github >}}]() [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=ytQ4Yz4AAAAJ&hl=tr&oi=ao)
