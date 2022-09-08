@@ -22,8 +22,7 @@ website:
       &copy; 2022 HakanMehmetcik 
     right: |
       [<img src="eulogo.png" alt="EU Funded Logo" style="height:3.5em;"/>](https://erasmus-plus.ec.europa.eu).
-      [<img src="marmaralogo.png" alt="EU Funded Logo" style="height:3.5em;"/>](https://marmara.edu.tr).
-      [<img src="siyasallogo.png" alt="EU Funded Logo" style="height:3.5em;"/>](https://siyasal.marmara.edu.tr).
+      [<img src="marmaralogo.png" alt="MU logo" style="height:3.5em;"/>](https://marmara.edu.tr).
     border: true
 format:
   html:
