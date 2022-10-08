@@ -9,8 +9,8 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/HakanMehmetcik/EUITREL.git
-    - icon: mail
-      text: Mail
+    - icon: email
+      text: E-mail
       href: mailto:euitrel.jeanmonnet@gmail.com
 ---
 
