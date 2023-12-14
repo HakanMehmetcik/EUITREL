@@ -220,7 +220,7 @@ The main objective of the methodological approach(es) employed in teaching activ
 ## Full Course Shedule
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
-schedule <- read.csv("~/Library/CloudStorage/OneDrive-marmara.edu.tr/mac_projects 2/EUITREL/shedule.csv")
+schedule <- read.csv("~/R project/EUITREL/shedule.csv")
 library(kableExtra)
 library(dplyr)
 schedule |>
