@@ -8,24 +8,12 @@ editor: visual
 
 ## Title Slide
 
-![](images/Screen%20Shot%202022-10-08%20at%2014.25.33.png)
-
 ## Picture 1
-
-![](images/9b27624e-af8a-4c5a-8b79-61456ea8db1e.JPG)
 
 ## Picture 2
 
-![](images/3fa921b7-d8b3-4aa2-802d-c2a77d0afd32.JPG)
-
 ## Picture 3
-
-![](images/273644ce-beb5-4e13-afa6-00e0eab3a06a.JPG)
 
 ## Picture 4
 
-![](images/Screen%20Shot%202022-10-08%20at%2014.39.17.png)
-
 ## Picture 5
-
-![](images/ac54bc39-41de-4c74-b768-eeccaf3edd33.JPG)
