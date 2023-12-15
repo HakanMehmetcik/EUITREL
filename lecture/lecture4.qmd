@@ -8,4 +8,4 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/Ali Arı 2022 Autumn/Ali Arı 2022 Autumn.png)
+![](/lecture/images/Ali%20Arı%202022%20Autumn/Ali%20Arı%202022%20Autumn.png)

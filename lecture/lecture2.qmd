@@ -8,10 +8,10 @@ editor: visual
 
 ## Title Slide
 
-![](images/Erhan Doğan 2022 Autumn/Erhan Doğan 2022 Autumn.png)
+![](images/Erhan%20Doğan%202022%20Autumn/Erhan%20Doğan%202022%20Autumn.png)
 
 ## Picture 1
 
-![](images/Erhan Doğan 2022 Autumn/WhatsApp Image 2023-12-10 at 12.48.57 AM.jpeg)
+![](images/Erhan%20Doğan%202022%20Autumn/WhatsApp%20Image%202023-12-10%20at%2012.48.57%20AM.jpeg)
 
 ## 

@@ -8,8 +8,8 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/Hakan Mehmetcik 2022 Autumn 3/Hakan Mehmetcik 2022 Autumn 3.png)
+![](/lecture/images/Hakan%20Mehmetcik%202022%20Autumn%203/Hakan%20Mehmetcik%202022%20Autumn%203.png)
 
 ## Picture
 
-![](/lecture/images/Hakan Mehmetcik 2022 Autumn 3/WhatsApp Image 2023-12-10 at 12.53.48 AM.jpeg)
+![](/lecture/images/Hakan%20Mehmetcik%202022%20Autumn%203/WhatsApp%20Image%202023-12-10%20at%2012.53.48%20AM.jpeg)

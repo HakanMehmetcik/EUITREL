@@ -8,8 +8,8 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/Çağdaş Üngör 2022 Autumn/Çağdaş Üngör 2022 Autumn.png)
+![](/lecture/images/Çağdaş%20Üngör%202022%20Autumn/Çağdaş%20Üngör%202022%20Autumn.png)
 
 ## Picture
 
-![](/lecture/images/Çağdaş Üngör 2022 Autumn/WhatsApp Image 2023-12-10 at 12.52.28 AM.jpeg)
+![](/lecture/images/Çağdaş%20Üngör%202022%20Autumn/WhatsApp%20Image%202023-12-10%20at%2012.52.28%20AM.jpeg)

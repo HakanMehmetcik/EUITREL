@@ -8,7 +8,7 @@ editor: visual
 
 ## Title Slide
 
-![](images/Hakan Mehmetcik 2022 Autumn 1/Hakan Mehmetcik 2022 Autumn.png)
+![](images/Hakan%20Mehmetcik%202022%20Autumn%201/Hakan%20Mehmetcik%202022%20Autumn.png)
 
 ## Picture 2
 
