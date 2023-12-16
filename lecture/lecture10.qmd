@@ -8,8 +8,8 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/Emre Erşen 2022 Autumn/Emre Erşen 2022 Autumn.png)
+![](/lecture/images/Emre%20Erşen%202022%20Autumn/Emre%20Erşen%202022%20Autumn.png)
 
 ## Picture 2
 
-![](/lecture/images/Emre Erşen 2022 Autumn/WhatsApp Image 2023-12-10 at 1.00.20 AM.jpeg)
+![](/lecture/images/Emre%20Erşen%202022%20Autumn/WhatsApp%20Image%202023-12-10%20at%201.00.20%20AM.jpeg)
