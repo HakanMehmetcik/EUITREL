@@ -7,3 +7,9 @@ editor: visual
 ---
 
 ## Title Slide
+
+![](/lecture/images/2023-2024 Autumn/Hakan Mehmetcik 2023 Autumn 1/HM 1.png)
+
+## Picture 2
+
+![](/lecture/images/2023-2024 Autumn/Hakan Mehmetcik 2023 Autumn 1/WhatsApp Image 2023-12-10 at 12.48.57 AM (1).jpeg)
