@@ -8,8 +8,8 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/Ferit Belder 2022 Autumn/Ferit Belder 2022 Autumn.png)
+![](/lecture/images/Ferit%20Belder%202022%20Autumn/Ferit%20Belder%202022%20Autumn.png)
 
 ## Picture 2
 
-![](/lecture/images/Ferit Belder 2022 Autumn/WhatsApp Image 2023-12-10 at 1.03.17 AM.jpeg)
+![](/lecture/images/Ferit%20Belder%202022%20Autumn/WhatsApp%20Image%202023-12-10%20at%201.03.17%20AM.jpeg)
