@@ -5,3 +5,11 @@ date: 19.10.2023
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/2023-2024 Autumn/Hakan Mehmetcik 2023 Autumn 3/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş (53).png)
+
+## Picture 2
+
+![](/lecture/images/2023-2024 Autumn/Hakan Mehmetcik 2023 Autumn 3/WhatsApp Image 2023-12-10 at 1.21.19 AM.jpeg)
