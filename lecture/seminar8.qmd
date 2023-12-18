@@ -8,4 +8,4 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/2022-2023%20Spring/HM%208.png)
+![](images/2022-2023 Spring/HM 8.png)
