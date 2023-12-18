@@ -5,3 +5,11 @@ date: 11.09.2023
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/2023-2024 Autumn/Çağdaş Üngör 2023 Autumn/ÇAĞDAŞ ÜNGÖR 6.png)
+
+## Picture 2
+
+![](/lecture/images/2023-2024 Autumn/Çağdaş Üngör 2023 Autumn/WhatsApp Image 2023-12-10 at 1.24.13 AM.jpeg)
