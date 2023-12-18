@@ -80,5 +80,7 @@ editor: visual
 +------------+------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
 | 02.11.2023 | Marmara University, Göztepe Campus | Lecture 19                               | Hakan Mehmetcik | [Course Info](lecture/lecture19.html#/title-slide) |
 +------------+------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
-| 09.11.2023 | Marmara University, Göztepe Campus | Lecture 20                               | Hakan Mehmetcik | [Course Info](lecture/lecture20.html#/title-slide) |
+| 09.11.2023 | Marmara University, Göztepe Campus | Lecture 20                               | Çağdaş Üngör    | [Course Info](lecture/lecture20.html#/title-slide) |
++------------+------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
+| 16.11.2023 | Marmara University, Göztepe Campus | Lecture 21                               | Emel Parlar Dal | [Course Info](lecture/lecture21.html#/title-slide) |
 +------------+------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
