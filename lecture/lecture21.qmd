@@ -5,3 +5,11 @@ date: 11.16.2023
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/2023-2024 Autumn/Emel Parlar Dal 2023 Autumn/EMEL PARLAR DAL 7.png)
+
+## Picture 2
+
+![](/lecture/images/2023-2024 Autumn/Emel Parlar Dal 2023 Autumn/WhatsApp Image 2023-12-10 at 1.24.50 AM.jpeg)
