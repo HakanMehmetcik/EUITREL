@@ -5,3 +5,11 @@ date: 02.11.2023
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/2023-2024 Autumn/Ali Arı 2023 Autumn/ALİ ARI 5.png)
+
+## Picture 2
+
+![](/lecture/images/2023-2024 Autumn/Ali Arı 2023 Autumn/WhatsApp Image 2023-12-10 at 1.23.35 AM.jpeg)
