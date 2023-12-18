@@ -88,5 +88,5 @@ editor: visual
 +------------+------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
 | 07.12.2023 | Marmara University, Göztepe Campus | Lecture 23                               | Hakan Mehmetcik | [Course Info](lecture/lecture23.html#/title-slide) |
 +------------+------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
-| 14.07.2023 | Marmara University, Göztepe Campus | Lecture 24                               | Emre Erşen      | [Course Info](lecture/lecture24.html#/title-slide) |
+| 14.12.2023 | Marmara University, Göztepe Campus | Lecture 24                               | Emre Erşen      | [Course Info](lecture/lecture24.html#/title-slide) |
 +------------+------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
