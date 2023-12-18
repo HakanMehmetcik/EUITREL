@@ -5,3 +5,11 @@ date: 12.07.2023
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/2023-2024 Autumn/Hakan Mehmetcik 2023 Autumn 6/HM 6.png)
+
+## Picture 2
+
+![](/lecture/images/2023-2024 Autumn/Hakan Mehmetcik 2023 Autumn 6/WhatsApp Image 2023-12-10 at 1.26.25 AM.jpeg)
