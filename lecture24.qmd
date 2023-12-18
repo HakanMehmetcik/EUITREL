@@ -5,3 +5,11 @@ date: 12.14.2023
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/2023-2024 Autumn/Emre Erşen 2023 Autumn/emre erşen 2023 autumn.png)
+
+## Picture 2
+
+![](/lecture/images/2023-2024 Autumn/Emre Erşen 2023 Autumn/WhatsApp Image 2023-12-18 at 3.55.32 PM.jpeg)
