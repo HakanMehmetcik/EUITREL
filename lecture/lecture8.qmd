@@ -1,15 +1,15 @@
 ---
 title: "EUITREL: The EU’s Inter-regional and Trans-regional Relations"
 subtitle: "Inter-Regional Relations Between EU and North and Latin America"
-date: 01.12.2022 
+date: 12.01.2022 
 format: revealjs
 editor: visual
 ---
 
 ## Title Slide
 
-![](images/Hakan Mehmetcik 2022 Autumn 4/Hakan Mehmetcik 2022 Autumn 4.png)
+![](images/Hakan%20Mehmetcik%202022%20Autumn%204/Hakan%20Mehmetcik%202022%20Autumn%204.png)
 
 ## Picture 2
 
-![](images/Hakan Mehmetcik 2022 Autumn 4/WhatsApp Image 2023-12-10 at 12.57.27 AM.jpeg)
+![](images/Hakan%20Mehmetcik%202022%20Autumn%204/WhatsApp%20Image%202023-12-10%20at%2012.57.27%20AM.jpeg)
