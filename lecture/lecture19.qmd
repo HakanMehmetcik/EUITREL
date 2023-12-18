@@ -8,7 +8,7 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/2023-2024%20Autumn/Ali%20Arı%202023%20Autumn/ALİ%20ARI%205.png)
+![](images/2023-2024 Autumn/Ali Arı 2023 Autumn/ALİ ARI 5.png)
 
 ## Picture 2
 
