@@ -1,11 +1,11 @@
 ---
 title: "EUITREL: The EU’s Inter-regional and Trans-regional Relations"
 subtitle: "Inter-Regional Relations Between EU and ASIA: ASEM and Beyond"
-date: 30.03.2023
+date: 03.30.2023
 format: revealjs
 editor: visual
 ---
 
 ## Title Slide
 
-![](/lecture/images/2022-2023 Spring/HM 5.png)
+![](/lecture/images/2022-2023%20Spring/HM%205.png)
