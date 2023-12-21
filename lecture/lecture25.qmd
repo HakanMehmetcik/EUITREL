@@ -5,3 +5,15 @@ date: 12.21.2023
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/2023-2024 Autumn/Ferit Belder 2023 Autumn/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş (57).png)
+
+## Picture 2
+
+![](/lecture/images/2023-2024 Autumn/Ferit Belder 2023 Autumn/WhatsApp Image 2023-12-21 at 11.01.46 AM.jpeg)
+
+## Picture 3
+
+![](/lecture/images/2023-2024 Autumn/Ferit Belder 2023 Autumn/WhatsApp Image 2023-12-21 at 11.01.47 AM (1).jpeg)
