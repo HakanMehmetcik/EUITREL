@@ -51,17 +51,17 @@ editor: visual
 
 [{{< fa brands twitter >}}](https://mobile.twitter.com/emelparlar2) [{{< fa brands github >}}]() [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=_2W8nt8AAAAJ&hl=tr&oi=ao)
 
-## İmran Demir
+## Ferit Belder
 
 **Role:** Researcher, and lecturer
 
 **Organizations:** Marmara University
 
-**Title:** Assoc. Prof.
+**Title:** Assist. Prof.
 
-**Expertise:** International Relations, Methodology
+**Expertise:** International Relations, MENA, Middle East
 
-[{{< fa brands twitter >}}]() [{{< fa brands github >}}]() [{{< ai google-scholar >}}]()
+[{{< fa brands twitter >}}](https://twitter.com/FeritBelder) [{{< fa brands github >}}]() [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=DY6r7IwAAAAJ&hl)
 
 ## Emre Erşen
 
