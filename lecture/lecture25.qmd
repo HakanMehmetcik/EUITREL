@@ -8,12 +8,12 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/2023-2024 Autumn/Ferit Belder 2023 Autumn/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş (57).png)
+![](/lecture/images/2023-2024%20Autumn/Ferit%20Belder%202023%20Autumn/Yeşil%20ile%20Küre%20Simgesi%20Gençlik%20Ağı%20Konferansı%20Afiş%20(57).png)
 
 ## Picture 2
 
-![](/lecture/images/2023-2024 Autumn/Ferit Belder 2023 Autumn/WhatsApp Image 2023-12-21 at 11.01.46 AM.jpeg)
+![](/lecture/images/2023-2024%20Autumn/Ferit%20Belder%202023%20Autumn/WhatsApp%20Image%202023-12-21%20at%2011.01.46%20AM.jpeg)
 
 ## Picture 3
 
-![](/lecture/images/2023-2024 Autumn/Ferit Belder 2023 Autumn/WhatsApp Image 2023-12-21 at 11.01.47 AM (1).jpeg)
+![](/lecture/images/2023-2024%20Autumn/Ferit%20Belder%202023%20Autumn/WhatsApp%20Image%202023-12-21%20at%2011.01.47%20AM%20(1).jpeg)
