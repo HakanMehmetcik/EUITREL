@@ -5,3 +5,15 @@ date: 12.28.2023
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş (58).png)
+
+## Picture 2
+
+![](/lecture/images/WhatsApp Image 2023-12-28 at 10.31.08 AM.jpeg)
+
+## Picture 3
+
+![](/lecture/images/WhatsApp Image 2023-12-28 at 10.31.06 AM-01.jpeg)
