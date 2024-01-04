@@ -8,12 +8,12 @@ editor: visual
 
 ## Title Slide
 
-![](/lecture/images/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş (58).png)
+![](/lecture/images/Yeşil%20ile%20Küre%20Simgesi%20Gençlik%20Ağı%20Konferansı%20Afiş%20(58).png)
 
 ## Picture 2
 
-![](/lecture/images/WhatsApp Image 2023-12-28 at 10.31.08 AM.jpeg)
+![](/lecture/images/WhatsApp%20Image%202023-12-28%20at%2010.31.08%20AM.jpeg)
 
 ## Picture 3
 
-![](/lecture/images/WhatsApp Image 2023-12-28 at 10.31.06 AM-01.jpeg)
+![](/lecture/images/WhatsApp%20Image%202023-12-28%20at%2010.31.06%20AM-01.jpeg)
