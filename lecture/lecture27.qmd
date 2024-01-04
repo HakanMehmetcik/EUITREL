@@ -5,3 +5,15 @@ date: 01.04.2024
 format: revealjs
 editor: visual
 ---
+
+## Title Slide
+
+![](/lecture/images/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş (59).png)
+
+## Picture 2
+
+![](/lecture/images/WhatsApp Image 2024-01-04 at 11.44.41 AM (1).jpeg)
+
+## Picture 3
+
+![](/lecture/images/WhatsApp Image 2024-01-04 at 11.44.41 AM.jpeg)
