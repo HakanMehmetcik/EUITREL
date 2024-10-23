@@ -216,16 +216,3 @@ The main objective of the methodological approach(es) employed in teaching activ
 7.  The future of the EU-Turkey Relations.
 
 [A Detailed Content & Reading List](https://docs.google.com/document/d/1CujVvwRd3JrrkeT5cW16SMBF3AfDwiZp_VLP1PvkcrQ/edit?usp=sharing)
-
-## Full Course Shedule
-
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
-schedule <- read.csv("~/R project/EUITREL/shedule.csv")
-library(kableExtra)
-library(dplyr)
-schedule |>
-  select(-Content.Reading) |> 
-  kbl(caption = "Course Schedule") |> 
-  kable_classic_2(full_width = F)
-
-```
