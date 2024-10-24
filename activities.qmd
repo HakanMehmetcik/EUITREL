@@ -96,5 +96,5 @@ editor: visual
 +------------+----------------------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
 | 04.01.2024 | Marmara University, Göztepe Campus                 | Lecture 27                               | Hakan Mehmetcik | [Course Info](lecture/lecture27.html#/title-slide) |
 +------------+----------------------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
-| 03.10.2024 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 28                               | Hakan Mehmetcik | [Course Info](lecture28.html#/title-slide)         |
+| 03.10.2024 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 28                               | Hakan Mehmetcik | [Course Info](lecture/lecture28.html#/title-slide) |
 +------------+----------------------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
