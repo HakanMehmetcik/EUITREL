@@ -1,19 +1,15 @@
 ---
 title: "EUITREL: The EU’s Inter-regional and Trans-regional Relations"
 subtitle: "Introduction"
-date: 02.04.2024
+date: 03.10.2024
 format: revealjs
 editor: visual
 ---
 
 ## Title Slide
 
-![](/lecture/images/Yeşil%20ile%20Küre%20Simgesi%20Gençlik%20Ağı%20Konferansı%20Afiş%20(59).png)
+![](images/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş.png)
 
-## Picture 2
+## Picture 1
 
-![](/lecture/images/WhatsApp%20Image%202024-01-04%20at%2011.44.41%20AM%20(1).jpeg)
-
-## Picture 3
-
-![](/lecture/images/WhatsApp%20Image%202024-01-04%20at%2011.44.41%20AM.jpeg)
+![](images/Week_1_regionalism_page-0001.jpg)
