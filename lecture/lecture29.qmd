@@ -8,6 +8,6 @@ editor: visual
 
 ## Title Slide
 
-![](images/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş-12-01.png)
+![](images/Yeşil%20ile%20Küre%20Simgesi%20Gençlik%20Ağı%20Konferansı%20Afiş-12-01.png)
 
-![](images/autumn 2. week_page-0001.jpg)
+![](images/autumn%202.%20week_page-0001.jpg)
