@@ -1,0 +1,13 @@
+---
+title: "EUITREL: The EU’s Inter-regional and Trans-regional Relations"
+subtitle: "Bölgeselcilik Teorileri"
+date: 03.14.2024
+format: revealjs
+editor: visual
+---
+
+## Title Slide
+
+![](images/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş-7.png)
+
+## ![](images/5.hafta_page-0001.jpg)
