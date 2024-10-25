@@ -1,0 +1,15 @@
+---
+title: "EUITREL: The EU’s Inter-regional and Trans-regional Relations"
+subtitle: "Afrika, Karşılaştırmalı Bölgeselcilik"
+date: 05.09.2024
+format: revealjs
+editor: visual
+---
+
+## Title Slide
+
+![](images/Yeşil ile Küre Simgesi Gençlik Ağı Konferansı Afiş-17.png)
+
+## 
+
+![](images/12.hafta_page-0001-01.jpg)
