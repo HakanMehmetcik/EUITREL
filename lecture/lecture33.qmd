@@ -8,8 +8,8 @@ editor: visual
 
 ## Title Slide
 
-![](/images/2024 6.hafta.jpg)
+![](/images/2024%206.hafta.jpg)
 
 ## 
 
-![](/images/ali arı sunu_page-0001.jpg)
+![](/images/ali%20arı%20sunu_page-0001.jpg)
