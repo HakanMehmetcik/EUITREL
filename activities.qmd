@@ -138,5 +138,7 @@ editor: visual
 +------------+----------------------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
 | 14.11.2024 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 34                               | Emel Parlar Dal | [Course Info](lecture/lecture34.html#/title-slide) |
 +------------+----------------------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
-| 28.11.2024 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture35                                | Hakan Mehmetcik | [Course Info](lecture/lecture35.html#/title-slide) |
+| 28.11.2024 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 35                               | Hakan Mehmetcik | [Course Info](lecture/lecture35.html#/title-slide) |
++------------+----------------------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
+| 05.12.2024 | Marmara University, Recep Tayyip Erdoğan Külliyesi | Lecture 36                               | Hakan Mehmetcik | [Course Info](lecture/lecture36.html#/title-slide) |
 +------------+----------------------------------------------------+------------------------------------------+-----------------+----------------------------------------------------+
